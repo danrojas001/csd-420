@@ -1,0 +1,24 @@
+/*Dan Rojas*/
+/*Mod 7*/
+/*03-May-26*/
+
+/*Create an external CSS style sheet that defines a class for white fill and black stroke color and an ID for red and green color.*/
+
+.circleBorder {
+    -fx-stroke-width: 5px;
+}
+
+.whiteCircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+#redCircle {
+    -fx-fill: red;
+    -fx-stroke: black;
+}
+
+#greenCircle {
+    -fx-fill: green;
+    -fx-stroke: black;
+}
